@@ -1,4 +1,4 @@
-# Wengisi-Company-Profile_vision_marketing strategy
+# Wengisi-Company-Profile_vision_marketing strategy return to master
 business Plan
 vision 
 Market Analysis
@@ -7,3 +7,4 @@ Cashflow Projection
 Logistics
 Operations Model
 Strengths and Weaknesses
+return to master
